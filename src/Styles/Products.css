@@ -1,0 +1,7 @@
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    background-image: url('C:\Users\APPLE\OneDrive\Desktop\onlineFood\fooddashboard\src\assests\17-lifestyle-people-ordering-sushi-home.jpg');
+    padding: 2px;
+}
